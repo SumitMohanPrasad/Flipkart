@@ -1,0 +1,38 @@
+/* .navmain{
+   box-sizing: 10px;
+   border:1px solid rgb(245, 241, 241);
+   box-shadow: 0px 0px 30px gray;
+   float: left;
+   margin-top: 10px;
+   margin-left: 50px;
+
+} */
+
+.navLeft{
+   display: inline-block; 
+   padding-left: 3%;
+   float: left;
+   padding-right: 10%;
+   background-color: #2874f0;
+}
+
+ .navRight{
+   display: flex;
+   background-color:#2874f0;
+   padding-bottom: 3.3%;
+} 
+.Cart{
+   padding-right: 10%;
+}
+
+.More{
+   padding-right: 10%;
+}
+.Seller{
+   padding-right: 10%;
+}
+.Login{
+  
+   padding-left: 20%;
+   padding-right: 10%;
+}
